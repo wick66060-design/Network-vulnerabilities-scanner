@@ -1,20 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+NetScanner AI: Professional Network Security Tool
+NetScanner AI is a comprehensive network analysis application designed for identification and security assessment. The tool enables users to map their environment and evaluate potential vulnerabilities through an integrated AI interface.
 
-# Run and deploy your AI Studio app
+Core Capabilities
+Subnet Discovery: Scans specific /24 subnets to identify active devices across the network.
 
-This contains everything you need to run your app locally.
+Targeted Port Scanning: Conducts deep investigations of open ports on selected host addresses.
 
-View your app in AI Studio: https://ai.studio/apps/9b7c762f-96ee-4b2f-bed7-68f56ba87153
+AI-Driven Analysis: Generates granular security reports and remediation guides based on specific host data.
 
-## Run Locally
+Real-Time Monitoring: Provides a live scanner output log to track discovery and scanning progress.
 
-**Prerequisites:**  Node.js
+User-Centric Design: Features a streamlined interface for setting scan scopes and managing detected devices.
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Technical Applications
+The tool supports security professionals in cataloging assets and prioritizing threats. It bridges the gap between raw network data and actionable insights by utilizing AI to interpret scan results. Users can initiate scans for specific port ranges to ensure comprehensive coverage of their network perimeter.
